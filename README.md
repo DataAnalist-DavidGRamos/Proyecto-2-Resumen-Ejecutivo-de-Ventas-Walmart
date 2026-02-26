@@ -6,7 +6,7 @@ Transformar datos Walmart en un resumen ejecutivo que oriente decisiones de pres
 Los datos están en Google Sheets: [https://docs.google.com/spreadsheets/d/1ruhaUG9n1VCUbC-RXhsXp_SO2GCLdbHTn9Lt2RxMkos/edit?usp=drive_link)]
 
 ## 📝 Descripción
-[Mi proyecto consiste en asumir el rol de analista en Walmart, donde la Dirección Comercial necesita un resumen ejecutivo para ajustar presupuestos e inventario. Trabajo con datos de ventas semanales de 2012, que incluyen información de tiendas, departamentos y ventas.
+Mi proyecto consiste en asumir el rol de analista en Walmart, donde la Dirección Comercial necesita un resumen ejecutivo para ajustar presupuestos e inventario. Trabajo con datos de ventas semanales de 2012, que incluyen información de tiendas, departamentos y ventas.
 
 El desafío es transformar estos datos en insights accionables mediante dos KPIs clave: ventas por metro cuadrado (para medir eficiencia) y participación por departamento (para identificar qué áreas aportan más al negocio).
 
@@ -23,12 +23,13 @@ Para lograrlo, realizo una limpieza profunda de los datos, enriquezco la informa
 - KPI 3: Volatilidad 	Indica una variabilidad moderada entre tiendas	Existe una alta dispersión en la estabilidad de ventas entre tiendas: mientras algunas mantienen un desempeño muy constante (CV < 0.6), otras muestran alta volatilidad (CV > 1.2), lo que evidencia inconsistencia operativa y de demanda dentro de la red comercial.	La organización debe estandarizar prácticas y optimizar la gestión en las tiendas más volátiles para reducir el riesgo y mejorar la predictibilidad del negocio, tomando como referencia las tiendas con desempeño estable.
 
 📅 En el documento encontraras:
- 📊 Descripción del analisis 
+ 📊 Descripción del analisis
  Explorar datos iniciales
  Resumen
  Tablas dinámicas
  Dashboard
  Gráficos
  Hallazgos documentados
+
 👩‍💻 Autor
 David Ramos https://www.linkedin.com/in/david-g-ramos/
