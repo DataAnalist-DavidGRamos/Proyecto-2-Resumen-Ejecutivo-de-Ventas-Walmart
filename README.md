@@ -23,13 +23,13 @@ Para lograrlo, realizo una limpieza profunda de los datos, enriquezco la informa
 - KPI 3: Volatilidad 	Indica una variabilidad moderada entre tiendas	Existe una alta dispersión en la estabilidad de ventas entre tiendas: mientras algunas mantienen un desempeño muy constante (CV < 0.6), otras muestran alta volatilidad (CV > 1.2), lo que evidencia inconsistencia operativa y de demanda dentro de la red comercial.	La organización debe estandarizar prácticas y optimizar la gestión en las tiendas más volátiles para reducir el riesgo y mejorar la predictibilidad del negocio, tomando como referencia las tiendas con desempeño estable.
 
 📅 En el documento encontraras:
- 📊 Descripción del analisis
- Explorar datos iniciales
- Resumen
- Tablas dinámicas
- Dashboard
- Gráficos
- Hallazgos documentados
+- 📊 Descripción del analisis
+- Explorar datos iniciales
+- Resumen
+- Tablas dinámicas
+- Dashboard
+- Gráficos
+- Hallazgos documentados
 
 👩‍💻 Autor
 David Ramos https://www.linkedin.com/in/david-g-ramos/
